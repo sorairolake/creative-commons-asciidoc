@@ -1,0 +1,72 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= Creative Commons AsciiDoc
+:creativecommons-url: https://creativecommons.org/
+:asciidoc-url: https://asciidoc.org/
+:release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
+:reuse-spec-url: https://reuse.software/spec/
+
+This project provides {creativecommons-url}[Creative Commons] licenses in
+{asciidoc-url}[AsciiDoc].
+
+This project is inspired by
+https://github.com/idleberg/Creative-Commons-Markdown.
+
+== Available licenses
+
+CC BY 4.0::
+
+  link:CC-BY-4.0.adoc[]
+
+CC BY-SA 4.0::
+
+  link:CC-BY-SA-4.0.adoc[]
+
+CC BY-NC 4.0::
+
+  link:CC-BY-NC-4.0.adoc[]
+
+CC BY-NC-SA 4.0::
+
+  link:CC-BY-NC-SA-4.0.adoc[]
+
+CC BY-ND 4.0::
+
+  link:CC-BY-ND-4.0.adoc[]
+
+CC BY-NC-ND 4.0::
+
+  link:CC-BY-NC-ND-4.0.adoc[]
+
+CC0 1.0::
+
+  link:CC0-1.0.adoc[]
+
+The licenses in PDF are available on the {release-page-url}[release page].
+
+== Source code
+
+The upstream repository is available at
+https://github.com/sorairolake/creative-commons-asciidoc.git.
+
+== Changelog
+
+Please see link:CHANGELOG.adoc[].
+
+== Contributing
+
+Please see link:CONTRIBUTING.adoc[].
+
+== License
+
+* Copyright (C) 2009 Creative Commons
+* Copyright (C) 2024 Shun Sakai
+
+Unless otherwise noted, the contents of this repository are distributed under
+the terms of the _CC0 1.0 Universal_.
+
+This project is compliant with version 3.2 of the
+{reuse-spec-url}[_REUSE Specification_]. See copyright notices of individual
+files for more details on copyright and licensing information.

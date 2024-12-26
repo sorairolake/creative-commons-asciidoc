@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= License
+:reuse-spec-url: https://reuse.software/spec/
+
+[none]
+* Copyright (C) 2009 Creative Commons
+* Copyright (C) 2024 Shun Sakai
+
+Unless otherwise noted, the contents of this repository are distributed under
+the terms of the _CC0 1.0 Universal_.
+
+This project is compliant with version 3.2 of the
+{reuse-spec-url}[_REUSE Specification_].
+
+== CC0 1.0 Universal
+
+....
+include::example$LICENSES/CC0-1.0.txt[]
+....

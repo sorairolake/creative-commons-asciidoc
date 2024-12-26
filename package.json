@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "creative-commons-asciidoc",
+  "version": "1.0.0",
+  "description": "AsciiDoc-formatted Creative Commons licenses",
+  "license": "CC0-1.0",
+  "author": "Shun Sakai <sorairolake@protonmail.ch>",
+  "homepage": "https://github.com/sorairolake/creative-commons-asciidoc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorairolake/creative-commons-asciidoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sorairolake/creative-commons-asciidoc/issues"
+  },
+  "devDependencies": {
+    "@antora/cli": "^3.1.10",
+    "@antora/lunr-extension": "^1.0.0-alpha.9",
+    "@antora/site-generator": "^3.1.10"
+  }
+}

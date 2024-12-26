@@ -1,0 +1,36 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= Creative Commons AsciiDoc
+:creativecommons-url: https://creativecommons.org
+:asciidoc-url: https://asciidoc.org/
+:creativecommons-badge-url: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg
+:creativecommons-licenses-url: {creativecommons-url}/licenses
+:release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
+
+This project provides {creativecommons-url}[Creative Commons] licenses in
+{asciidoc-url}[AsciiDoc].
+
+This project is inspired by
+https://github.com/idleberg/Creative-Commons-Markdown.
+
+== Available licenses
+
+.List of licenses in HTML
+* image:{creativecommons-badge-url}/by.svg[CC BY,88,link={creativecommons-licenses-url}/by/4.0/]
+  xref:licenses/CC-BY-4.0.adoc[]
+* image:{creativecommons-badge-url}/by-sa.svg[CC BY-SA,88,link={creativecommons-licenses-url}/by-sa/4.0/]
+  xref:licenses/CC-BY-SA-4.0.adoc[]
+* image:{creativecommons-badge-url}/by-nc.svg[CC BY-NC,88,link={creativecommons-licenses-url}/by-nc/4.0/]
+  xref:licenses/CC-BY-NC-4.0.adoc[]
+* image:{creativecommons-badge-url}/by-nc-sa.svg[CC BY-NC-SA,88,link={creativecommons-licenses-url}/by-nc-sa/4.0/]
+  xref:licenses/CC-BY-NC-SA-4.0.adoc[]
+* image:{creativecommons-badge-url}/by-nd.svg[CC BY-ND,88,link={creativecommons-licenses-url}/by-nd/4.0/]
+  xref:licenses/CC-BY-ND-4.0.adoc[]
+* image:{creativecommons-badge-url}/by-nc-nd.svg[CC BY-NC-ND,88,link={creativecommons-licenses-url}/by-nc-nd/4.0/]
+  xref:licenses/CC-BY-NC-ND-4.0.adoc[]
+* image:{creativecommons-badge-url}/cc-zero.svg[CC0,88,link={creativecommons-url}/publicdomain/zero/1.0/]
+  xref:licenses/CC0-1.0.adoc[]
+
+The licenses in PDF are available on the {release-page-url}[release page].
