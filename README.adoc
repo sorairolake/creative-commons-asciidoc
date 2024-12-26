@@ -10,6 +10,9 @@
 This project provides {creativecommons-url}[Creative Commons] licenses in
 {asciidoc-url}[AsciiDoc].
 
+This project is inspired by
+https://github.com/idleberg/Creative-Commons-Markdown.
+
 == Available licenses
 
 CC BY 4.0::
