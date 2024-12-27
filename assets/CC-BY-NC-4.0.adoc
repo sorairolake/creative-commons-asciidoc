@@ -2,18 +2,6 @@
 Creative Commons
 4.0, 2013-11-25
 :lang: en
-:copyright: Creative Commons
-:description: A Creative Commons license in the AsciiDoc-formatted text.
-:keywords: AsciiDoc, CC license, Creative Commons license
-:toc: right
-:cc-wiki-url: https://wiki.creativecommons.org
-:cc-wiki-page-url: {cc-wiki-url}/wiki
-:considerations-for-licensors-and-licensees-url: {cc-wiki-page-url}/Considerations_for_licensors_and_licensees
-:considerations-for-licensors-url: {considerations-for-licensors-and-licensees-url}#Considerations_for_licensors
-:considerations-for-licensees-url: {considerations-for-licensors-and-licensees-url}#Considerations_for_licensees
-:creativecommons-url: https://creativecommons.org
-:cc0-deed-url: {creativecommons-url}/publicdomain/zero/1.0/
-:policies-url: {creativecommons-url}/policies/
 
 .About the license and Creative Commons
 ****
@@ -49,7 +37,7 @@ licenses so that the public can reuse the material as expected. Licensors
 should clearly mark any material not subject to the license. This includes
 other CC-licensed material, or material used under an exception or limitation
 to copyright.
-{considerations-for-licensors-url}[More considerations for licensors].
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors[More considerations for licensors].
 ******
 
 '''
@@ -67,7 +55,7 @@ others have copyright or other rights in the material. A licensor may make
 special requests, such as asking that all changes be marked or described.
 Although not required by our licenses, you are encouraged to respect those
 requests where reasonable.
-{considerations-for-licensees-url}[More considerations for the public].
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees[More considerations for the public].
 ******
 ****
 
@@ -341,17 +329,19 @@ License.
 Creative Commons is not a party to its public licenses. Notwithstanding,
 Creative Commons may elect to apply one of its public licenses to material it
 publishes and in those instances will be considered the "Licensor." The text of
-the Creative Commons public licenses is dedicated to the public domain under
-the {cc0-deed-url}[CC0 Public Domain Dedication]. Except for the limited
-purpose of indicating that material is shared under a Creative Commons public
-license or as otherwise permitted by the Creative Commons policies published at
-{policies-url}[creativecommons.org/policies], Creative Commons does not
-authorize the use of the trademark "Creative Commons" or any other trademark or
-logo of Creative Commons without its prior written consent including, without
-limitation, in connection with any unauthorized modifications to any of its
-public licenses or any other arrangements, understandings, or agreements
-concerning use of licensed material. For the avoidance of doubt, this paragraph
-does not form part of the public licenses.
+the Creative Commons public licenses is dedicated to the public domain under the
+https://creativecommons.org/publicdomain/zero/1.0/[CC0 Public Domain Dedication].
+Except for the limited purpose of indicating that material is shared under a
+Creative Commons public license or as otherwise permitted by the Creative
+Commons policies published at
+https://creativecommons.org/policies/[creativecommons.org/policies], Creative
+Commons does not authorize the use of the trademark "Creative Commons" or any
+other trademark or logo of Creative Commons without its prior written consent
+including, without limitation, in connection with any unauthorized
+modifications to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For the
+avoidance of doubt, this paragraph does not form part of the public licenses.
 
-Creative Commons may be contacted at {creativecommons-url}[creativecommons.org].
+Creative Commons may be contacted at
+https://creativecommons.org/[creativecommons.org].
 ****

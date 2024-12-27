@@ -23,13 +23,13 @@ jobs:
       - name: Generate PDF files
         uses: docker://asciidoctor/docker-asciidoctor:latest
         with:
-          args: asciidoctor-pdf -a compress CC*.adoc
+          args: asciidoctor-pdf -a compress -D . assets/CC*.adoc
       - name: Calculate checksums
         run: |
           sha256sum CC*.pdf | tee sha256sums.txt
           b2sum CC*.pdf | tee b2sums.txt
       - name: Release
-        uses: softprops/action-gh-release@v2.2.0
+        uses: softprops/action-gh-release@v2.1.0
         if: startsWith(github.ref, 'refs/tags/')
         with:
           draft: true

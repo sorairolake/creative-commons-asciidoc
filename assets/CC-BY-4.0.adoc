@@ -1,19 +1,7 @@
-= Attribution-NoDerivatives 4.0 International
+= Attribution 4.0 International
 Creative Commons
 4.0, 2013-11-25
 :lang: en
-:copyright: Creative Commons
-:description: A Creative Commons license in the AsciiDoc-formatted text.
-:keywords: AsciiDoc, CC license, Creative Commons license
-:toc: right
-:cc-wiki-url: https://wiki.creativecommons.org
-:cc-wiki-page-url: {cc-wiki-url}/wiki
-:considerations-for-licensors-and-licensees-url: {cc-wiki-page-url}/Considerations_for_licensors_and_licensees
-:considerations-for-licensors-url: {considerations-for-licensors-and-licensees-url}#Considerations_for_licensors
-:considerations-for-licensees-url: {considerations-for-licensors-and-licensees-url}#Considerations_for_licensees
-:creativecommons-url: https://creativecommons.org
-:cc0-deed-url: {creativecommons-url}/publicdomain/zero/1.0/
-:policies-url: {creativecommons-url}/policies/
 
 .About the license and Creative Commons
 ****
@@ -49,7 +37,7 @@ licenses so that the public can reuse the material as expected. Licensors
 should clearly mark any material not subject to the license. This includes
 other CC-licensed material, or material used under an exception or limitation
 to copyright.
-{considerations-for-licensors-url}[More considerations for licensors].
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors[More considerations for licensors].
 ******
 
 '''
@@ -67,20 +55,20 @@ others have copyright or other rights in the material. A licensor may make
 special requests, such as asking that all changes be marked or described.
 Although not required by our licenses, you are encouraged to respect those
 requests where reasonable.
-{considerations-for-licensees-url}[More considerations for the public].
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees[More considerations for the public].
 ******
 ****
 
-== Attribution-NoDerivatives 4.0 International
+== Attribution 4.0 International
 
 By exercising the Licensed Rights (defined below), You accept and agree to be
-bound by the terms and conditions of this Creative Commons
-Attribution-NoDerivatives 4.0 International Public License ("Public License").
-To the extent this Public License may be interpreted as a contract, You are
-granted the Licensed Rights in consideration of Your acceptance of these terms
-and conditions, and the Licensor grants You such rights in consideration of
-benefits the Licensor receives from making the Licensed Material available
-under these terms and conditions.
+bound by the terms and conditions of this Creative Commons Attribution 4.0
+International Public License ("Public License"). To the extent this Public
+License may be interpreted as a contract, You are granted the Licensed Rights
+in consideration of Your acceptance of these terms and conditions, and the
+Licensor grants You such rights in consideration of benefits the Licensor
+receives from making the Licensed Material available under these terms and
+conditions.
 
 [#s1]
 === Section 1 - Definitions.
@@ -94,6 +82,9 @@ under these terms and conditions.
   where the Licensed Material is a musical work, performance, or sound
   recording, Adapted Material is always produced where the Licensed Material is
   synched in timed relation with a moving image.
+. [.underline]#Adapter's License# means the license You apply to Your Copyright
+  and Similar Rights in Your contributions to Adapted Material in accordance
+  with the terms and conditions of this Public License.
 . [.underline]#Copyright and Similar Rights# means copyright and/or similar
   rights closely related to copyright including, without limitation,
   performance, broadcast, sound recording, and Sui Generis Database Rights,
@@ -140,7 +131,7 @@ under these terms and conditions.
    Licensed Material to:#
 [upperalpha]
 ... reproduce and Share the Licensed Material, in whole or in part; and
-... produce and reproduce, but not Share, Adapted Material.
+... produce, reproduce, and Share Adapted Material.
 .. *Exceptions and Limitations*. For the avoidance of doubt, where Exceptions
    and Limitations apply to Your use, this Public License does not apply, and
    You do not need to comply with its terms and conditions.
@@ -192,9 +183,8 @@ conditions.
 [loweralpha]
 . *Attribution*.
 [arabic]
-.. [#s3a1]#If You Share the Licensed Material, You must:#
-+
---
+.. [#s3a1]#If You Share the Licensed Material (including in modified form), You
+   must:#
 [upperalpha]
 ... [#s3a1A]#retain the following if it is supplied by the Licensor with the
     Licensed Material:#
@@ -211,10 +201,6 @@ conditions.
     any previous modifications; and
 ... indicate the Licensed Material is licensed under this Public License, and
     include the text of, or the URI or hyperlink to, this Public License.
---
-+
-For the avoidance of doubt, You do not have permission under this Public
-License to Share Adapted Material.
 .. You may satisfy the conditions in Section <<s3a1,3(a)(1)>> in any reasonable
    manner based on the medium, means, and context in which You Share the
    Licensed Material. For example, it may be reasonable to satisfy the
@@ -223,6 +209,9 @@ License to Share Adapted Material.
 .. If requested by the Licensor, You must remove any of the information
    required by Section <<s3a1A,3(a)(1)(A)>> to the extent reasonably
    practicable.
+.. If You Share Adapted Material You produce, the Adapter's License You apply
+   must not prevent recipients of the Adapted Material from complying with this
+   Public License.
 
 [#s4]
 === Section 4 - Sui Generis Database Rights.
@@ -233,7 +222,7 @@ Your use of the Licensed Material:
 [loweralpha]
 . for the avoidance of doubt, Section <<s2a1,2(a)(1)>> grants You the right to
   extract, reuse, reproduce, and Share all or a substantial portion of the
-  contents of the database, provided You do not Share Adapted Material;
+  contents of the database;
 . if You include all or a substantial portion of the database contents in a
   database in which You have Sui Generis Database Rights, then the database in
   which You have Sui Generis Database Rights (but not its individual contents)
@@ -331,17 +320,19 @@ License.
 Creative Commons is not a party to its public licenses. Notwithstanding,
 Creative Commons may elect to apply one of its public licenses to material it
 publishes and in those instances will be considered the "Licensor." The text of
-the Creative Commons public licenses is dedicated to the public domain under
-the {cc0-deed-url}[CC0 Public Domain Dedication]. Except for the limited
-purpose of indicating that material is shared under a Creative Commons public
-license or as otherwise permitted by the Creative Commons policies published at
-{policies-url}[creativecommons.org/policies], Creative Commons does not
-authorize the use of the trademark "Creative Commons" or any other trademark or
-logo of Creative Commons without its prior written consent including, without
-limitation, in connection with any unauthorized modifications to any of its
-public licenses or any other arrangements, understandings, or agreements
-concerning use of licensed material. For the avoidance of doubt, this paragraph
-does not form part of the public licenses.
+the Creative Commons public licenses is dedicated to the public domain under the
+https://creativecommons.org/publicdomain/zero/1.0/[CC0 Public Domain Dedication].
+Except for the limited purpose of indicating that material is shared under a
+Creative Commons public license or as otherwise permitted by the Creative
+Commons policies published at
+https://creativecommons.org/policies/[creativecommons.org/policies], Creative
+Commons does not authorize the use of the trademark "Creative Commons" or any
+other trademark or logo of Creative Commons without its prior written consent
+including, without limitation, in connection with any unauthorized
+modifications to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For the
+avoidance of doubt, this paragraph does not form part of the public licenses.
 
-Creative Commons may be contacted at {creativecommons-url}[creativecommons.org].
+Creative Commons may be contacted at
+https://creativecommons.org/[creativecommons.org].
 ****

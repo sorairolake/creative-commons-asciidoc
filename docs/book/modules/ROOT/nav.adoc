@@ -12,8 +12,6 @@
 * xref:licenses/CC0-1.0.adoc[CC0 1.0]
 
 .Resources
-* https://github.com/sorairolake/creative-commons-asciidoc/releases[Release Page]
-* xref:repository.adoc[]
 * xref:changelog.adoc[]
 * xref:contributing.adoc[]
 * xref:authors.adoc[]
