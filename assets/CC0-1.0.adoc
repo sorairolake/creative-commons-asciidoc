@@ -2,10 +2,6 @@
 Creative Commons
 1.0, 2009-01-16
 :lang: en
-:copyright: Creative Commons
-:description: A Creative Commons license in the AsciiDoc-formatted text.
-:keywords: AsciiDoc, CC license, Creative Commons license
-:toc: right
 :cc-wiki-url: https://wiki.creativecommons.org
 :cc-wiki-page-url: {cc-wiki-url}/wiki
 :considerations-for-licensors-and-licensees-url: {cc-wiki-page-url}/Considerations_for_licensors_and_licensees
