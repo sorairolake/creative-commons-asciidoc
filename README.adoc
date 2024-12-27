@@ -5,16 +5,32 @@
 = Creative Commons AsciiDoc
 :creativecommons-url: https://creativecommons.org/
 :asciidoc-url: https://asciidoc.org/
+:commonmark-url: https://commonmark.org/
 :release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
+:asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
+:asciidoctor-url: https://asciidoctor.org/
+:asciidoc-py-url: https://asciidoc-py.github.io/
 :reuse-spec-url: https://reuse.software/spec/
 
 This project provides {creativecommons-url}[Creative Commons] licenses in
 {asciidoc-url}[AsciiDoc].
 
+By default, these licenses are available as HTML or plain text. This project
+aims to provide these licenses written in a markup language which has both the
+document structure and human-readability. I think {commonmark-url}[Markdown] is
+more popular than AsciiDoc as a lightweight markup language, but I chose
+AsciiDoc because these licenses written in Markdown already exist, it can get
+closer to the HTML's document structure than Markdown, and I personally prefer
+Markdown to AsciiDoc.
+
 This project is inspired by
 https://github.com/idleberg/Creative-Commons-Markdown.
 
 == Available licenses
+
+This project provides version 4.0 of the Creative Commons license suite and CC0
+in English. For details about Creative Commons licenses, see
+https://creativecommons.org/share-your-work/cclicenses/.
 
 CC BY 4.0::
 
@@ -44,7 +60,31 @@ CC0 1.0::
 
   link:assets/CC0-1.0.adoc[]
 
-The licenses in PDF are available on the {release-page-url}[release page].
+NOTE: The licenses in PDF are available on the {release-page-url}[release page].
+
+== How to convert
+
+The licenses are compliant with the
+{asciidoc-docs-url}[AsciiDoc Language Documentation]. These can be converted to
+other formats using {asciidoctor-url}[Asciidoctor].
+
+TIP: The licenses can also be handled by {asciidoc-py-url}[AsciiDoc.py], but it
+is recommended to use Asciidoctor to properly handle them.
+
+.Convert AsciiDoc to HTML
+[source,sh]
+----
+asciidoctor assets/CC-BY-4.0.adoc
+----
+
+.Convert AsciiDoc to PDF
+[source,sh]
+----
+asciidoctor-pdf assets/CC0-1.0.adoc
+----
+
+For details about the available converters, see
+https://docs.asciidoctor.org/asciidoctor/latest/convert/available/.
 
 == Source code
 
