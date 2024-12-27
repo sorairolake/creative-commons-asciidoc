@@ -23,7 +23,7 @@ jobs:
       - name: Generate PDF files
         uses: docker://asciidoctor/docker-asciidoctor:latest
         with:
-          args: asciidoctor-pdf -a compress CC*.adoc
+          args: asciidoctor-pdf -a compress -D . assets/CC*.adoc
       - name: Calculate checksums
         run: |
           sha256sum CC*.pdf | tee sha256sums.txt
