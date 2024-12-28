@@ -3,10 +3,11 @@
 // SPDX-License-Identifier: CC0-1.0
 
 = Creative Commons AsciiDoc
-:creativecommons-url: https://creativecommons.org/
+:creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
 :release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
+:cc0-deed-url: {creativecommons-url}/publicdomain/zero/1.0/
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
@@ -61,6 +62,10 @@ CC0 1.0::
   link:assets/CC0-1.0.adoc[]
 
 NOTE: The licenses in PDF are available on the {release-page-url}[release page].
+
+The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
+domain under the {cc0-deed-url}[CC0 Public Domain Dedication] as well as the
+text of the Creative Commons public licenses.
 
 == How to convert
 
