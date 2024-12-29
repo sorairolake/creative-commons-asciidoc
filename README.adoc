@@ -3,13 +3,15 @@
 // SPDX-License-Identifier: CC0-1.0
 
 = Creative Commons AsciiDoc
-:creativecommons-url: https://creativecommons.org/
+:creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
 :release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
+:cc0-deed-url: {creativecommons-url}/publicdomain/zero/1.0/
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
+:pandoc-url: https://pandoc.org/
 :reuse-spec-url: https://reuse.software/spec/
 
 This project provides {creativecommons-url}[Creative Commons] licenses in
@@ -62,6 +64,10 @@ CC0 1.0::
 
 NOTE: The licenses in PDF are available on the {release-page-url}[release page].
 
+The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
+domain under the {cc0-deed-url}[CC0 Public Domain Dedication] as well as the
+text of the Creative Commons public licenses.
+
 == How to convert
 
 The licenses are compliant with the
@@ -85,6 +91,19 @@ asciidoctor-pdf assets/CC0-1.0.adoc
 
 For details about the available converters, see
 https://docs.asciidoctor.org/asciidoctor/latest/convert/available/.
+
+If you want to convert to a file format which does not have a converter, you
+may be able to use {pandoc-url}[Pandoc].
+
+.Convert AsciiDoc to GitHub Flavored Markdown
+[source,sh]
+----
+asciidoctor -b docbook5 -o - -a leveloffset=+1 assets/CC-BY-SA-4.0.adoc \
+    | pandoc -f docbook -t gfm \
+    > CC-BY-SA-4.0.md
+----
+
+IMPORTANT: It may be desirable to tidy up the output file of Pandoc.
 
 == Source code
 
