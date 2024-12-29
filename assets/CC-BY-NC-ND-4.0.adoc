@@ -128,10 +128,10 @@ Licensed Material available under these terms and conditions.
 [loweralpha]
 . *License grant*.
 [arabic]
-.. [#s2a1]#Subject to the terms and conditions of this Public License, the
+.. [[s2a1]]Subject to the terms and conditions of this Public License, the
    Licensor hereby grants You a worldwide, royalty-free, non-sublicensable,
    non-exclusive, irrevocable license to exercise the Licensed Rights in the
-   Licensed Material to:#
+   Licensed Material to:
 [upperalpha]
 ... reproduce and Share the Licensed Material, in whole or in part, for
     NonCommercial purposes only; and
@@ -141,7 +141,7 @@ Licensed Material available under these terms and conditions.
    and Limitations apply to Your use, this Public License does not apply, and
    You do not need to comply with its terms and conditions.
 .. *Term*. The term of this Public License is specified in Section <<s6a,6(a)>>.
-.. [#s2a4]#*Media and formats; technical modifications allowed*. The Licensor
+.. [[s2a4]]*Media and formats; technical modifications allowed*. The Licensor
    authorizes You to exercise the Licensed Rights in all media and formats
    whether now known or hereafter created, and to make technical modifications
    necessary to do so. The Licensor waives and/or agrees not to assert any
@@ -149,7 +149,7 @@ Licensed Material available under these terms and conditions.
    necessary to exercise the Licensed Rights, including technical modifications
    necessary to circumvent Effective Technological Measures. For purposes of
    this Public License, simply making modifications authorized by this Section
-   <<s2a4,2(a)(4)>> never produces Adapted Material.#
+   <<s2a4,2(a)(4)>> never produces Adapted Material.
 .. [.underline]#Downstream recipients#.
 [upperalpha]
 ... [.underline]#Offer from the Licensor - Licensed Material#. Every recipient
@@ -165,7 +165,7 @@ Licensed Material available under these terms and conditions.
    use of the Licensed Material is, connected with, or sponsored, endorsed, or
    granted official status by, the Licensor or others designated to receive
    attribution as provided in Section <<s3a1Ai,3(a)(1)(A)(i)>>.
-. [#s2b]#*Other rights*.#
+. [[s2b]]*Other rights*.
 [arabic]
 .. Moral rights, such as the right of integrity, are not licensed under this
    Public License, nor are publicity, privacy, and/or other similar personality
@@ -189,16 +189,16 @@ conditions.
 [loweralpha]
 . *Attribution*.
 [arabic]
-.. [#s3a1]#If You Share the Licensed Material, You must:#
+.. [[s3a1]]If You Share the Licensed Material, You must:
 +
 --
 [upperalpha]
-... [#s3a1A]#retain the following if it is supplied by the Licensor with the
-    Licensed Material:#
+... [[s3a1A]]retain the following if it is supplied by the Licensor with the
+    Licensed Material:
 [lowerroman]
-.... [#s3a1Ai]#identification of the creator(s) of the Licensed Material and
+.... [[s3a1Ai]]identification of the creator(s) of the Licensed Material and
      any others designated to receive attribution, in any reasonable manner
-     requested by the Licensor (including by pseudonym if designated);#
+     requested by the Licensor (including by pseudonym if designated);
 .... a copyright notice;
 .... a notice that refers to this Public License;
 .... a notice that refers to the disclaimer of warranties;
@@ -272,11 +272,11 @@ include other Copyright and Similar Rights.
 === Section 6 - Term and Termination.
 
 [loweralpha]
-. [#s6a]#This Public License applies for the term of the Copyright and Similar
+. [[s6a]]This Public License applies for the term of the Copyright and Similar
   Rights licensed here. However, if You fail to comply with this Public
-  License, then Your rights under this Public License terminate automatically.#
-. [#s6b]#Where Your right to use the Licensed Material has terminated under
-  Section 6(a), it reinstates:#
+  License, then Your rights under this Public License terminate automatically.
+. [[s6b]]Where Your right to use the Licensed Material has terminated under
+  Section 6(a), it reinstates:
 +
 --
 [arabic]
