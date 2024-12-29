@@ -118,6 +118,10 @@ Please see link:CHANGELOG.adoc[].
 
 Please see link:CONTRIBUTING.adoc[].
 
+== Home page
+
+https://sorairolake.github.io/creative-commons-asciidoc/
+
 == License
 
 * Copyright (C) 2009 Creative Commons
