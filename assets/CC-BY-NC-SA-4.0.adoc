@@ -70,7 +70,7 @@ these terms and conditions, and the Licensor grants You such rights in
 consideration of benefits the Licensor receives from making the Licensed
 Material available under these terms and conditions.
 
-[#s1]
+[[s1]]
 === Section 1 - Definitions.
 
 [loweralpha]
@@ -199,7 +199,7 @@ Material available under these terms and conditions.
 Your exercise of the Licensed Rights is expressly made subject to the following
 conditions.
 
-[#s3a]
+[[s3a]]
 [loweralpha]
 . *Attribution*.
 [arabic]
@@ -248,7 +248,7 @@ Material You produce, the following conditions also apply.
    apply.
 --
 
-[#s4]
+[[s4]]
 === Section 4 - Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to
@@ -269,7 +269,7 @@ For the avoidance of doubt, this Section <<s4,4>> supplements and does not
 replace Your obligations under this Public License where the Licensed Rights
 include other Copyright and Similar Rights.
 
-[#s5]
+[[s5]]
 === Section 5 - Disclaimer of Warranties and Limitation of Liability.
 
 [loweralpha]
@@ -294,7 +294,7 @@ include other Copyright and Similar Rights.
   be interpreted in a manner that, to the extent possible, most closely
   approximates an absolute disclaimer and waiver of all liability.
 
-[#s6]
+[[s6]]
 === Section 6 - Term and Termination.
 
 [loweralpha]
@@ -320,7 +320,7 @@ License.
 . Sections <<s1,1>>, <<s5,5>>, <<s6,6>>, <<s7,7>>, and <<s8,8>> survive
   termination of this Public License.
 
-[#s7]
+[[s7]]
 === Section 7 - Other Terms and Conditions.
 
 [loweralpha]
@@ -330,7 +330,7 @@ License.
   Material not stated herein are separate from and independent of the terms and
   conditions of this Public License.
 
-[#s8]
+[[s8]]
 === Section 8 - Interpretation.
 
 [loweralpha]
