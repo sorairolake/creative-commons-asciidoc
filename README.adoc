@@ -6,8 +6,9 @@
 :creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
+:cc-licenses-url: {creativecommons-url}/licenses
+:cc0-url: {creativecommons-url}/publicdomain/zero/1.0
 :release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
-:cc0-deed-url: {creativecommons-url}/publicdomain/zero/1.0/
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
@@ -36,37 +37,51 @@ https://creativecommons.org/share-your-work/cclicenses/.
 
 CC BY 4.0::
 
-  link:assets/CC-BY-4.0.adoc[]
+  * link:assets/CC-BY-4.0.adoc[]
+  * {cc-licenses-url}/by/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by/4.0/legalcode.en[Legal code]
 
 CC BY-SA 4.0::
 
-  link:assets/CC-BY-SA-4.0.adoc[]
+  * link:assets/CC-BY-SA-4.0.adoc[]
+  * {cc-licenses-url}/by-sa/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by-sa/4.0/legalcode.en[Legal code]
 
 CC BY-NC 4.0::
 
-  link:assets/CC-BY-NC-4.0.adoc[]
+  * link:assets/CC-BY-NC-4.0.adoc[]
+  * {cc-licenses-url}/by-nc/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by-nc/4.0/legalcode.en[Legal code]
 
 CC BY-NC-SA 4.0::
 
-  link:assets/CC-BY-NC-SA-4.0.adoc[]
+  * link:assets/CC-BY-NC-SA-4.0.adoc[]
+  * {cc-licenses-url}/by-nc-sa/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by-nc-sa/4.0/legalcode.en[Legal code]
 
 CC BY-ND 4.0::
 
-  link:assets/CC-BY-ND-4.0.adoc[]
+  * link:assets/CC-BY-ND-4.0.adoc[]
+  * {cc-licenses-url}/by-nd/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by-nd/4.0/legalcode.en[Legal code]
 
 CC BY-NC-ND 4.0::
 
-  link:assets/CC-BY-NC-ND-4.0.adoc[]
+  * link:assets/CC-BY-NC-ND-4.0.adoc[]
+  * {cc-licenses-url}/by-nc-nd/4.0/deed.en[Deed]
+  * {cc-licenses-url}/by-nc-nd/4.0/legalcode.en[Legal code]
 
 CC0 1.0::
 
-  link:assets/CC0-1.0.adoc[]
+  * link:assets/CC0-1.0.adoc[]
+  * {cc0-url}/deed.en[Deed]
+  * {cc0-url}/legalcode.en[Legal code]
 
 NOTE: The licenses in PDF are available on the {release-page-url}[release page].
 
 The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
-domain under the {cc0-deed-url}[CC0 Public Domain Dedication] as well as the
-text of the Creative Commons public licenses.
+domain under the {cc0-url}[CC0 Public Domain Dedication] as well as the text of
+the Creative Commons public licenses.
 
 == How to convert
 
@@ -117,6 +132,10 @@ Please see link:CHANGELOG.adoc[].
 == Contributing
 
 Please see link:CONTRIBUTING.adoc[].
+
+== Home page
+
+https://sorairolake.github.io/creative-commons-asciidoc/
 
 == License
 
