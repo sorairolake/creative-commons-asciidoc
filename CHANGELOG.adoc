@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 The format is based on https://keepachangelog.com/[Keep a Changelog], and this
 project adheres to https://calver.org/[Calendar Versioning].
 
+== {compare-url}/v2024.12.29\...v2025.01.12[2025.01.12] - 2025-01-12
+
+=== Changed
+
+* Update documentation
+
 == {compare-url}/v2024.12.27\...v2024.12.29[2024.12.29] - 2024-12-29
 
 === Fixed
