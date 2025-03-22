@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: CC0-1.0
 
 = License
-:reuse-spec-url: https://reuse.software/spec/
+:reuse-spec-url: https://reuse.software/spec-3.3/
 
 [none]
 * Copyright (C) 2009 Creative Commons

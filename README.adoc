@@ -13,7 +13,7 @@
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
 :pandoc-url: https://pandoc.org/
-:reuse-spec-url: https://reuse.software/spec/
+:reuse-spec-url: https://reuse.software/spec-3.3/
 
 This project provides {creativecommons-url}[Creative Commons] licenses in
 {asciidoc-url}[AsciiDoc].
