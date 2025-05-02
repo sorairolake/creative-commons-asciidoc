@@ -8,7 +8,6 @@
 :commonmark-url: https://commonmark.org/
 :cc-licenses-url: {creativecommons-url}/licenses
 :cc0-url: {creativecommons-url}/publicdomain/zero/1.0
-:release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
@@ -76,8 +75,6 @@ CC0 1.0::
   * link:assets/CC0-1.0.adoc[]
   * {cc0-url}/deed.en[Deed]
   * {cc0-url}/legalcode.en[Legal code]
-
-NOTE: The licenses in PDF are available on the {release-page-url}[release page].
 
 The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
 domain under the {cc0-url}[CC0 Public Domain Dedication] as well as the text of
