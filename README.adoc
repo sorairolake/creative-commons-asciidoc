@@ -6,6 +6,9 @@
 :creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
+:enwp-article-url: https://en.wikipedia.org/wiki
+:pdf-url: {enwp-article-url}/PDF
+:epub-url: {enwp-article-url}/EPUB
 :github-pages-url: https://sorairolake.github.io/creative-commons-asciidoc/
 :cc0-url: {creativecommons-url}/publicdomain/zero/1.0
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
@@ -62,8 +65,8 @@ CC0 1.0::
 
   link:assets/CC0-1.0.adoc[]
 
-NOTE: The licenses in PDF and EPUB 3 are available on the
-{github-pages-url}[GitHub Pages].
+NOTE: The licenses in {pdf-url}[PDF] and {epub-url}[EPUB 3] are available on
+the {github-pages-url}[GitHub Pages].
 
 The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
 domain under the {cc0-url}[CC0 Public Domain Dedication] as well as the text of
