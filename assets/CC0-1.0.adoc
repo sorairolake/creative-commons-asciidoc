@@ -2,6 +2,7 @@
 Creative Commons
 1.0, 2009-01-16
 :lang: en
+:doctype: book
 
 .About the license and Creative Commons
 ****
