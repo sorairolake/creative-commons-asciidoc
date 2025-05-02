@@ -6,7 +6,7 @@
 :creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
-:cc-licenses-url: {creativecommons-url}/licenses
+:github-pages-url: https://sorairolake.github.io/creative-commons-asciidoc/
 :cc0-url: {creativecommons-url}/publicdomain/zero/1.0
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
@@ -36,45 +36,34 @@ https://creativecommons.org/share-your-work/cclicenses/.
 
 CC BY 4.0::
 
-  * link:assets/CC-BY-4.0.adoc[]
-  * {cc-licenses-url}/by/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-4.0.adoc[]
 
 CC BY-SA 4.0::
 
-  * link:assets/CC-BY-SA-4.0.adoc[]
-  * {cc-licenses-url}/by-sa/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-sa/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-SA-4.0.adoc[]
 
 CC BY-NC 4.0::
 
-  * link:assets/CC-BY-NC-4.0.adoc[]
-  * {cc-licenses-url}/by-nc/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-NC-4.0.adoc[]
 
 CC BY-NC-SA 4.0::
 
-  * link:assets/CC-BY-NC-SA-4.0.adoc[]
-  * {cc-licenses-url}/by-nc-sa/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc-sa/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-NC-SA-4.0.adoc[]
 
 CC BY-ND 4.0::
 
-  * link:assets/CC-BY-ND-4.0.adoc[]
-  * {cc-licenses-url}/by-nd/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nd/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-ND-4.0.adoc[]
 
 CC BY-NC-ND 4.0::
 
-  * link:assets/CC-BY-NC-ND-4.0.adoc[]
-  * {cc-licenses-url}/by-nc-nd/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc-nd/4.0/legalcode.en[Legal code]
+  link:assets/CC-BY-NC-ND-4.0.adoc[]
 
 CC0 1.0::
 
-  * link:assets/CC0-1.0.adoc[]
-  * {cc0-url}/deed.en[Deed]
-  * {cc0-url}/legalcode.en[Legal code]
+  link:assets/CC0-1.0.adoc[]
+
+NOTE: The licenses in PDF and EPUB 3 are available on the
+{github-pages-url}[GitHub Pages].
 
 The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
 domain under the {cc0-url}[CC0 Public Domain Dedication] as well as the text of

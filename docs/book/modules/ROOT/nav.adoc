@@ -3,13 +3,34 @@
 // SPDX-License-Identifier: CC0-1.0
 
 .Creative Commons licenses
-* xref:licenses/CC-BY-4.0.adoc[CC BY 4.0]
-* xref:licenses/CC-BY-SA-4.0.adoc[CC BY-SA 4.0]
-* xref:licenses/CC-BY-NC-4.0.adoc[CC BY-NC 4.0]
-* xref:licenses/CC-BY-NC-SA-4.0.adoc[CC BY-NC-SA 4.0]
-* xref:licenses/CC-BY-ND-4.0.adoc[CC BY-ND 4.0]
-* xref:licenses/CC-BY-NC-ND-4.0.adoc[CC BY-NC-ND 4.0]
-* xref:licenses/CC0-1.0.adoc[CC0 1.0]
+* CC BY 4.0
+** xref:licenses/CC-BY-4.0.adoc[HTML]
+** xref:attachment$CC-BY-4.0.pdf[PDF]
+** xref:attachment$CC-BY-4.0.epub[EPUB 3]
+* CC BY-SA 4.0
+** xref:licenses/CC-BY-SA-4.0.adoc[HTML]
+** xref:attachment$CC-BY-SA-4.0.pdf[PDF]
+** xref:attachment$CC-BY-SA-4.0.epub[EPUB 3]
+* CC BY-NC 4.0
+** xref:licenses/CC-BY-NC-4.0.adoc[HTML]
+** xref:attachment$CC-BY-NC-4.0.pdf[PDF]
+** xref:attachment$CC-BY-NC-4.0.epub[EPUB 3]
+* CC BY-NC-SA 4.0
+** xref:licenses/CC-BY-NC-SA-4.0.adoc[HTML]
+** xref:attachment$CC-BY-NC-SA-4.0.pdf[PDF]
+** xref:attachment$CC-BY-NC-SA-4.0.epub[EPUB 3]
+* CC BY-ND 4.0
+** xref:licenses/CC-BY-ND-4.0.adoc[HTML]
+** xref:attachment$CC-BY-ND-4.0.pdf[PDF]
+** xref:attachment$CC-BY-ND-4.0.epub[EPUB 3]
+* CC BY-NC-ND 4.0
+** xref:licenses/CC-BY-NC-ND-4.0.adoc[HTML]
+** xref:attachment$CC-BY-NC-ND-4.0.pdf[PDF]
+** xref:attachment$CC-BY-NC-ND-4.0.epub[EPUB 3]
+* CC0 1.0
+** xref:licenses/CC0-1.0.adoc[HTML]
+** xref:attachment$CC0-1.0.pdf[PDF]
+** xref:attachment$CC0-1.0.epub[EPUB 3]
 
 .Resources
 * xref:changelog.adoc[]

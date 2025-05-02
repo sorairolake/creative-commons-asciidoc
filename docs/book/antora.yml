@@ -7,3 +7,11 @@ title: Creative Commons AsciiDoc
 version: ~
 nav:
   - modules/ROOT/nav.adoc
+ext:
+  collector:
+    run:
+      - command: asciidoctor-pdf -a compress assets/CC*.adoc
+      - command: asciidoctor-epub3 assets/CC*.adoc
+    scan:
+      dir: assets
+      into: modules/ROOT/attachments
