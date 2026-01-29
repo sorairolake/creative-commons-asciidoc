@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: CC0-1.0
 
 = License
-:reuse-spec-url: https://reuse.software/spec/
+:reuse-spec-url: https://reuse.software/spec-3.3/
 
 [none]
 * Copyright (C) 2009 Creative Commons
@@ -12,7 +12,7 @@
 Unless otherwise noted, the contents of this repository are distributed under
 the terms of the _CC0 1.0 Universal_.
 
-This project is compliant with version 3.2 of the
+This project is compliant with version 3.3 of the
 {reuse-spec-url}[_REUSE Specification_].
 
 == CC0 1.0 Universal

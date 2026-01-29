@@ -6,9 +6,7 @@
 :creativecommons-url: https://creativecommons.org
 :asciidoc-url: https://asciidoc.org/
 :commonmark-url: https://commonmark.org/
-:cc-licenses-url: {creativecommons-url}/licenses
 :cc0-url: {creativecommons-url}/publicdomain/zero/1.0
-:release-page-url: https://github.com/sorairolake/creative-commons-asciidoc/releases
 :asciidoc-docs-url: https://docs.asciidoctor.org/asciidoc/latest/
 :asciidoctor-url: https://asciidoctor.org/
 :asciidoc-py-url: https://asciidoc-py.github.io/
@@ -34,50 +32,48 @@ This project provides version 4.0 of the Creative Commons license suite and CC0
 in English. For details about Creative Commons licenses, see
 https://creativecommons.org/share-your-work/cclicenses/.
 
-.List of the generated HTML license pages
+.List of the generated licenses
 CC BY 4.0::
 
-  * xref:licenses/CC-BY-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-4.0.epub[EPUB 3]
 
 CC BY-SA 4.0::
 
-  * xref:licenses/CC-BY-SA-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by-sa/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-sa/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-SA-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-SA-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-SA-4.0.epub[EPUB 3]
 
 CC BY-NC 4.0::
 
-  * xref:licenses/CC-BY-NC-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by-nc/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-NC-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-NC-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-NC-4.0.epub[EPUB 3]
 
 CC BY-NC-SA 4.0::
 
-  * xref:licenses/CC-BY-NC-SA-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by-nc-sa/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc-sa/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-NC-SA-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-NC-SA-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-NC-SA-4.0.epub[EPUB 3]
 
 CC BY-ND 4.0::
 
-  * xref:licenses/CC-BY-ND-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by-nd/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nd/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-ND-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-ND-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-ND-4.0.epub[EPUB 3]
 
 CC BY-NC-ND 4.0::
 
-  * xref:licenses/CC-BY-NC-ND-4.0.adoc[Generated HTML license page]
-  * {cc-licenses-url}/by-nc-nd/4.0/deed.en[Deed]
-  * {cc-licenses-url}/by-nc-nd/4.0/legalcode.en[Legal code]
+  * xref:licenses/CC-BY-NC-ND-4.0.adoc[HTML]
+  * xref:attachment$CC-BY-NC-ND-4.0.pdf[PDF]
+  * xref:attachment$CC-BY-NC-ND-4.0.epub[EPUB 3]
 
 CC0 1.0::
 
-  * xref:licenses/CC0-1.0.adoc[Generated HTML license page]
-  * {cc0-url}/deed.en[Deed]
-  * {cc0-url}/legalcode.en[Legal code]
-
-NOTE: The licenses in PDF are available on the {release-page-url}[release page].
+  * xref:licenses/CC0-1.0.adoc[HTML]
+  * xref:attachment$CC0-1.0.pdf[PDF]
+  * xref:attachment$CC0-1.0.epub[EPUB 3]
 
 The AsciiDoc-formatted Creative Commons licenses are dedicated to the public
 domain under the {cc0-url}[CC0 Public Domain Dedication] as well as the text of
