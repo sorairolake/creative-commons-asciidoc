@@ -8,7 +8,7 @@ _default:
 
 # Run the linter for GitHub Actions workflow files
 lint-github-actions:
-    actionlint -verbose
+    jactionlint --verbose --profile correctness
 
 # Build the book
 build-book:
